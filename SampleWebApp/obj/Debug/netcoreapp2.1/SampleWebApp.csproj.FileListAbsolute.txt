@@ -1,0 +1,17 @@
+C:\Users\amitava.sinha\Source\Repos\AKSAppDeploy\SampleWebApp\SampleWebApp\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\amitava.sinha\Source\Repos\AKSAppDeploy\SampleWebApp\SampleWebApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\amitava.sinha\Source\Repos\AKSAppDeploy\SampleWebApp\SampleWebApp\bin\Debug\netcoreapp2.1\appsettings.Production.json
+C:\Users\amitava.sinha\Source\Repos\AKSAppDeploy\SampleWebApp\SampleWebApp\bin\Debug\netcoreapp2.1\SampleWebApp.deps.json
+C:\Users\amitava.sinha\Source\Repos\AKSAppDeploy\SampleWebApp\SampleWebApp\bin\Debug\netcoreapp2.1\SampleWebApp.runtimeconfig.json
+C:\Users\amitava.sinha\Source\Repos\AKSAppDeploy\SampleWebApp\SampleWebApp\bin\Debug\netcoreapp2.1\SampleWebApp.runtimeconfig.dev.json
+C:\Users\amitava.sinha\Source\Repos\AKSAppDeploy\SampleWebApp\SampleWebApp\bin\Debug\netcoreapp2.1\SampleWebApp.dll
+C:\Users\amitava.sinha\Source\Repos\AKSAppDeploy\SampleWebApp\SampleWebApp\bin\Debug\netcoreapp2.1\SampleWebApp.pdb
+C:\Users\amitava.sinha\Source\Repos\AKSAppDeploy\SampleWebApp\SampleWebApp\obj\Debug\netcoreapp2.1\SampleWebApp.csprojAssemblyReference.cache
+C:\Users\amitava.sinha\Source\Repos\AKSAppDeploy\SampleWebApp\SampleWebApp\obj\Debug\netcoreapp2.1\SampleWebApp.csproj.CoreCompileInputs.cache
+C:\Users\amitava.sinha\Source\Repos\AKSAppDeploy\SampleWebApp\SampleWebApp\obj\Debug\netcoreapp2.1\SampleWebApp.RazorAssemblyInfo.cache
+C:\Users\amitava.sinha\Source\Repos\AKSAppDeploy\SampleWebApp\SampleWebApp\obj\Debug\netcoreapp2.1\SampleWebApp.RazorAssemblyInfo.cs
+C:\Users\amitava.sinha\Source\Repos\AKSAppDeploy\SampleWebApp\SampleWebApp\obj\Debug\netcoreapp2.1\SampleWebApp.AssemblyInfoInputs.cache
+C:\Users\amitava.sinha\Source\Repos\AKSAppDeploy\SampleWebApp\SampleWebApp\obj\Debug\netcoreapp2.1\SampleWebApp.AssemblyInfo.cs
+C:\Users\amitava.sinha\Source\Repos\AKSAppDeploy\SampleWebApp\SampleWebApp\obj\Debug\netcoreapp2.1\SampleWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\amitava.sinha\Source\Repos\AKSAppDeploy\SampleWebApp\SampleWebApp\obj\Debug\netcoreapp2.1\SampleWebApp.dll
+C:\Users\amitava.sinha\Source\Repos\AKSAppDeploy\SampleWebApp\SampleWebApp\obj\Debug\netcoreapp2.1\SampleWebApp.pdb
